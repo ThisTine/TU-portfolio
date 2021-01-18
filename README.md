@@ -1,7 +1,7 @@
 # นี่คือพอร์ตของ นายสิทธิโชค อ่วมศิริ
-สำหรับใช้ยื่นในคณะเทคโนโลยีสารสนเทศ ในมหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี
+สำหรับใช้ยื่นในคณะเทคโนโลยีสารสนเทศ ในมหาวิทยาลัยธรรมศาสตร์
 ##### ดูการแสดงผลได้ที่
-[kmutt.port.thistine.com](https://kmutt.port.thistine.com "kmutt.port.thistine.com")
+[tu.port.thistine.com](https://tu.port.thistine.com "tu.port.thistine.com")
 
 ------------
 
